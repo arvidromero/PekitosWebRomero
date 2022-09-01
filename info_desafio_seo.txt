@@ -1,0 +1,4 @@
+Para mejorar el seo se realizaron los siguientes cambios:
+
+Optimización de imagenes para reducir el peso de las mismas
+Insertar etiquetas descripcion y keywords en cada uan de los archivos html
